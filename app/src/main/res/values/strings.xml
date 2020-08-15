@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">Review Indonesian Food</string>
+    <string name="food_name">Nama Makanan</string>
+    <string name="food_detail">Food Detail</string>
+    <string name="favorite_food">Food Detail</string>
+    <string name="tentang_penulis">Tentang Penulis</string>
+    <string name="with_cardview">Menu Utama</string>
+    <string name="list">List Makanan</string>
+
+    <string name="Instagram">Russi Hersiano Caniago</string>
+    <string name="lokasi">Lokasi</string>
+</resources>
